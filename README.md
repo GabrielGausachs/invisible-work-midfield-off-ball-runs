@@ -15,7 +15,7 @@ Figure 1 compares distance covered per 90 minutes during team possession with de
 
 Figure 2 compares two players using radar plots that combine the previously described metrics. On one hand, R. Teague covers relatively little distancee but he achieves to be way above the average in space created in build up runs and getting free in progression runs while also contributing to xThreat. This shows that his impact comes from smart, timely movement rather than the quantity of runs. In contrast, L. Verstraete' radar plot reveals a different picture in terms of run quality. He ranks low on the metrics while being one of the players who covers the most distance. This suggests a highly dynamic playing style that relies on constant movement, but one that does not consistently translate into space creation or defensive density change.
 
-![Figure 1](src/data/figures/radarplot.png)
+![Figure 2](src/data/figures/radarplot.png)
 
 #### Conclusion
 
