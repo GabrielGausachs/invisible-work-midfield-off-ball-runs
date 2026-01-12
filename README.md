@@ -99,7 +99,6 @@ On a personal note, working on this project and participating in the hackathon h
 
 > **Author:** Gabriel Gausachs  
 > **Event:** Research Track of the **SkillCorner × PySport Hackathon (2025)**
-> **Year:** 2025
 
 
 
