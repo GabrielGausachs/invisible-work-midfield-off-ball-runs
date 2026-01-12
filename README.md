@@ -99,7 +99,7 @@ On a personal note, working on this project and participating in the hackathon h
 ### Author
 
 **Gabriel Gausachs**
-**SkillCorner × PySport Hackathon**  
+This project was developed as part of the Research Track of the **SkillCorner × PySport Hackathon**  
 **2025**
 
 
