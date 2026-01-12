@@ -96,8 +96,6 @@ This project shows that off-ball movement, especially from midfielders, can be m
 
 On a personal note, working on this project and participating in the hackathon has been an incredible experience. It has shown me how exciting it is to work with football data and confirmed that this is truly my passion. I have learned a great deal, and I know this is only the beginning of exploring the many opportunities this industry offers.
 
-### Author
-
 
 > **Author:** Gabriel Gausachs  
 > **Event:** Research Track of the **SkillCorner × PySport Hackathon (2025)**
