@@ -1,4 +1,4 @@
-# Invisible Work: Quantifying Midfield Impact Runs
+# Invisible Work: Quantifying Midfielders Impact Runs
 #### Introduction
 
 Football analysis has traditionally focused on on-ball actions, despite players performing over **450** off-ball runs per 90 minutes on average. These movements create space, disrupt defensive structures, and shape attacking sequences, even when they are not rewarded with the ball. This project focuses on midfielders and evaluates the **quality** of their off-ball movement rather than its volume. By introducing new spatial metrics and combining them with existing ones, the project provides a practical framework for scouting, tactical analysis, and player profiling.
